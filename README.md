@@ -12,5 +12,6 @@
 * 发起连接的一方看不到对方发送的消息
 * 发起连接的一方在对方断开连接之后标题栏状态没有更新  
 
-※ 在github上搜了下，发现有人已经写出来这样的app了，大神地址：https://github.com/cuihee/DAY7_BluetoothSerial.git
-  我这儿就这样吧
+※ 在github上搜了下，发现有人已经写出这样的app了，地址：https://github.com/cuihee/DAY7_BluetoothSerial.git  
+  发现了另外一个  地址：https://github.com/songbangyan/Bluetooth2Uart.git
+  抽时间对比一下看看我的bug怎么解决
